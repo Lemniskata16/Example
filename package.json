@@ -1,0 +1,22 @@
+{
+  "name": "group_2",
+  "version": "1.0.0",
+  "description": "Лаба Костянтин \r Максимович Ярослав\r Мандрик Денис\r Мантач Віктор",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/it_academy_homework/group_2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/it_academy_homework/group_2/issues"
+  },
+  "homepage": "https://gitlab.com/it_academy_homework/group_2#readme",
+  "dependencies": {
+    "alloyfinger": "^0.1.16"
+  }
+}
